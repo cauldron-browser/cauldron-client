@@ -13,7 +13,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
 lanscan==0.9.5
-lxml==4.1.1
+lxml==4.6.3
 macholib==1.9
 MarkupSafe==1.0
 netaddr==0.7.19
